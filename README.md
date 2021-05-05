@@ -1,3 +1,4 @@
 # stepic_auto_tests
 Course homework
-123
+https://stepik.org/lesson/187065/step/7?unit=161976
+
