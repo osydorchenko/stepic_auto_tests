@@ -26,6 +26,7 @@ try:
     alert = browser.switch_to.alert
     alert_text = alert.text.split(': ')
     print(alert_text[-1])
+    print('Finish')
 
 finally:
     time.sleep(6)
